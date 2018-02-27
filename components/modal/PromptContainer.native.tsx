@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { View, Text, TextInput, StyleSheet, KeyboardAvoidingView } from 'react-native';
 import Modal from './Modal';
 import promptStyle, { IPromptStyle } from './style/prompt.native';

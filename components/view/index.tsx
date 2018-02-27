@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 
 export default class View extends React.Component<any, any> {
   static defaultProps = {

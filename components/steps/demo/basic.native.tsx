@@ -2,7 +2,7 @@
 import { WingBlank, Icon } from 'antd-mobile';
 import Steps from '../index.native';
 const Step = Steps.Step;
-import React from 'react';
+import * as React from 'react';
 import { View, ScrollView, Text } from 'react-native';
 
 export default class BasicTimelineExample extends React.Component<any, any> {

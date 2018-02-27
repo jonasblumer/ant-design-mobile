@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Notification from 'rmc-notification';
 import Icon from '../icon';
 import classnames from 'classnames';

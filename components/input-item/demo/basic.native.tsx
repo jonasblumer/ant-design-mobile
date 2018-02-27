@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { ScrollView, Text } from 'react-native';
 import { InputItem, List, Button } from 'antd-mobile';
 

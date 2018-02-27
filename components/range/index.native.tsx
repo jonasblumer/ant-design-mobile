@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import RangeProps from './PropsType';
 
 export default class Range extends React.Component<RangeProps, any> {

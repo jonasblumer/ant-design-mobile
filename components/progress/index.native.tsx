@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Animated, Dimensions, StyleSheet } from 'react-native';
 import ProgressStyle from './style/index.native';
 import BasePropsType from './PropsType';

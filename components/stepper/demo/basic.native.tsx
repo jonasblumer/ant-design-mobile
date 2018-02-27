@@ -1,5 +1,5 @@
 /* tslint:disable:no-console */
-import React from 'react';
+import * as React from 'react';
 import { View } from 'react-native';
 import { Stepper, List } from 'antd-mobile';
 

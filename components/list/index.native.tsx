@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Text, ViewStyle, StyleSheet } from 'react-native';
 import Item from './ListItem.native';
 import { ListProps as BasePropsType } from './PropsType';

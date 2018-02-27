@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { Image, View, TouchableHighlight, Text, StyleSheet } from 'react-native';
 import { ListItemProps as ListItemBasePropsType, BriefProps as BriefBasePropsType } from './PropsType';
 import listItemStyle from './style/index.native';

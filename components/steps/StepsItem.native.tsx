@@ -1,5 +1,5 @@
  /* tslint:disable: jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { View, Text, Image, StyleProp, ViewStyle } from 'react-native';
 
 export interface StepsItemProps {

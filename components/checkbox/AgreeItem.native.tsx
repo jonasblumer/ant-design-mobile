@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, TouchableWithoutFeedback, Text, StyleSheet } from 'react-native';
 import Checkbox from './Checkbox.native';
 import { AgreeItemPropsType } from './PropsType';

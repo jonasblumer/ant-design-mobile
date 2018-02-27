@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, TouchableWithoutFeedback } from 'react-native';
 import { FlexProps as BasePropsType } from './PropsType';
 

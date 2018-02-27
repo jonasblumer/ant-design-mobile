@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { Text, ScrollView } from 'react-native';
 import Modal from './Modal';
 

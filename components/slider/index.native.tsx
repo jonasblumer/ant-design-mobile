@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Slider } from 'react-native';
 import BasePropsType from './PropsType';
 import SliderStyle from './style/index.native';

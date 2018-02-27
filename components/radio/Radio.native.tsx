@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { TouchableWithoutFeedback, Image, Text, View, StyleSheet } from 'react-native';
 import { RadioProps } from './PropsType';
 import RadioStyle, { IRadioStyle } from './style/index.native';

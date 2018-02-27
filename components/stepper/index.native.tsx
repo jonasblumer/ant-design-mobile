@@ -1,7 +1,7 @@
 import BasePropsType from './PropsType';
 import { Platform } from 'react-native';
 import RMCInputNumber from 'rmc-input-number/lib/index.ios';
-import React from 'react';
+import * as React from 'react';
 import styles from 'rmc-input-number/lib/styles';
 
 export interface StepProps extends BasePropsType {

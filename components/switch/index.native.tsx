@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import SwitchProps from './PropsType';
 import { Switch } from 'react-native';
 

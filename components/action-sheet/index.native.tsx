@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { Share, Platform, ActionSheetIOS } from 'react-native';
 import topView from 'rn-topview';
 import ActionSheetAndroidContainer from './AndroidContainer.native';

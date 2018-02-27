@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View } from 'react-native';
 import {
   Pagination, LocaleProvider, List, DatePicker, WhiteSpace, Button, Picker, SearchBar,

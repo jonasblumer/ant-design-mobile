@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import classnames from 'classnames';
 import RMCInputNumber from 'rmc-input-number';
 import BasePropsType from './PropsType';

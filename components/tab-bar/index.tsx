@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Tabs from '../tabs';
 import Tab from './Tab';
 import getDataAttr from '../_util/getDataAttr';

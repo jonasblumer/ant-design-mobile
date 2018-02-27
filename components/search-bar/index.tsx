@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import classnames from 'classnames';
 import { SearchBarProps as BasePropsType, SearchBarState, defaultProps } from './PropsType';
 import getDataAttr from '../_util/getDataAttr';

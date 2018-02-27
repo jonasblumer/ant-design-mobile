@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import RNStepsItem from './StepsItem.native';
 import { View, StyleSheet } from 'react-native';
 import StepStyle, { IStepsStyle } from './style/index.native';

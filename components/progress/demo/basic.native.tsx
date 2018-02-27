@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Text, ViewStyle } from 'react-native';
 import { WhiteSpace, Button, Progress } from 'antd-mobile';
 

@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import RcCheckbox from 'rc-checkbox';
 import { RadioProps as BasePropsType } from './PropsType';
 import classnames from 'classnames';

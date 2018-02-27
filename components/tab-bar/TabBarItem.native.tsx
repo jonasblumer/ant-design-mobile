@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Text, Image, TouchableWithoutFeedback } from 'react-native';
 
 export interface TabBarItemProps {

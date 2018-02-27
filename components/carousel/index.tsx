@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import classnames from 'classnames';
 import ReactCarousel from 'rmc-nuka-carousel';
 import BasePropsType from './PropsType';

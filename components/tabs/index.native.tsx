@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { Tabs as RMCTabs, DefaultTabBar as RMCDefaultTabBar } from 'rmc-tabs/lib/index.native';
 import Styles from './style/index.native';
 import TabsProps from './PropsType';

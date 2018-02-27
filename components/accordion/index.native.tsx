@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { View, Text, Image } from 'react-native';
 import RNAccordion from 'react-native-collapsible/Accordion';
 import AccordionStyle, { IAccordionStyle } from './style/index.native';

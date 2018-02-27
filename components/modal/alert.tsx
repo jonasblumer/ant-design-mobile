@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import ReactDOM from 'react-dom';
 import Modal from './Modal';
 import closest from '../_util/closest';

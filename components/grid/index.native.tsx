@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { Image, Text, Dimensions, View, StyleSheet } from 'react-native';
 import Flex from '../flex/index.native';
 import Carousel from '../carousel';

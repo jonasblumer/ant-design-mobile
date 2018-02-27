@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Dialog from 'rmc-dialog';
 import classnames from 'classnames';
 import { ModalProps as BasePropsType, ModalComponent } from './PropsType';

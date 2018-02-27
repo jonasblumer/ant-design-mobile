@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import { View, TextInput, Text, Image, StyleSheet } from 'react-native';
 import PropTypes from 'prop-types';
 import { SearchBarProps, SearchBarState, defaultProps } from './PropsType';

@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Text, TouchableHighlight } from 'react-native';
 import styles, { vars as variables, IActionSheetStyle } from './style/index.native';
 import Modal from 'rmc-dialog/lib/Modal';

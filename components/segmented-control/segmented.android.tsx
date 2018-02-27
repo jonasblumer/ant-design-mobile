@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Text, TouchableHighlight, StyleSheet } from 'react-native';
 import setNormalizedColorAlpha from 'react-native/Libraries/StyleSheet/setNormalizedColorAlpha';
 import normalizeColor from 'react-native/Libraries/StyleSheet/normalizeColor';

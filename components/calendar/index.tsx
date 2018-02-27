@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Icon from '../icon';
 import PropTypes from 'prop-types';
 import tsPropsType from './PropsType';

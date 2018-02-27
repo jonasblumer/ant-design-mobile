@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { StyleSheet, View, ScrollView, Text } from 'react-native';
 import { Drawer, List, Button, WhiteSpace } from 'antd-mobile';
 

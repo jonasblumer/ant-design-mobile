@@ -1,5 +1,5 @@
 /* tslint:disable:jsx-no-multiline-js */
-import React from 'react';
+import * as React from 'react';
 import classnames from 'classnames';
 import { ListItemProps as ListItemBasePropsType, BriefProps as BriefBasePropsType } from './PropsType';
 import TouchFeedback from 'rmc-feedback';

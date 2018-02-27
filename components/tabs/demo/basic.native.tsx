@@ -1,5 +1,5 @@
 /* tslint:disable:no-console */
-import React from 'react';
+import * as React from 'react';
 import { View, Text, ScrollView } from 'react-native';
 import { Tabs } from 'antd-mobile';
 

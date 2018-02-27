@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { View, Alert } from 'react-native';
 import { SearchBar } from 'antd-mobile';
 

@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { StyleSheet, View, Text, ViewStyle, Platform } from 'react-native';
 import { Popover } from 'antd-mobile';
 
